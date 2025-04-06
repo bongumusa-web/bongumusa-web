@@ -8,7 +8,7 @@
 
   <h1>Hi I'm Bingumusa Gumede!</h1>
   <h2>A Juninior technicain in Electrical engineering, currently studying backend web development at ALX AFRICA</h2>
-  <h2><b>Software Projects </b></h2>
+  <h2><b> About me </b></h2>
 
   <h2>
     - 🔭 I’m currently working at <strong>Tevo</strong><br>
