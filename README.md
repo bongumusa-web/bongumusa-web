@@ -2,37 +2,13 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Bongumusa Gumede - GitHub Profile</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f4f4f4;
-      padding: 20px;
-      line-height: 1.6;
-      max-width: 800px;
-      margin: auto;
-    }
-    h1 {
-      color: #2c3e50;
-    }
-    h2 {
-      background-color: #fff;
-      padding: 20px;
-      border-radius: 10px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    }
-    a {
-      color: #2980b9;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
+
 </head>
 <body>
 
-  <h1>Welcome to Bongumusa Gumede's GitHub Profile</h1>
+  <h1>Hi I'm Bingumusa Gumede!</h1>
+  <h2>A Juninior technicain in Electrical engineering, currently studying backend web development at ALX AFRICA</h2>
+  <h2><b>Software Projects </b></h2>
 
   <h2>
     - 🔭 I’m currently working at <strong>Tevo</strong><br>
